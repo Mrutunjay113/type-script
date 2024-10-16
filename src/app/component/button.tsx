@@ -3,6 +3,7 @@ export default function Button() {
 
   const name: string = "John";
   const age: number = 25;
+  console.log(name, age);
 
   //function declaration
 
